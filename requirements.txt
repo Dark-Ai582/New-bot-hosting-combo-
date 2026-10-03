@@ -1,0 +1,13 @@
+requests==2.26.0 
+pytz==2024.1
+requests
+pytz
+certifi
+charset-normalizer
+idna
+urllib3
+requests
+pytz
+pyfiglet
+termcolor
+colorama
